@@ -1,0 +1,96 @@
+
+.body{
+    align-items: center;
+    text-align: center;
+}
+
+#resume-template{
+    display: none;
+}
+
+.heading{
+    text-align: center;
+}
+
+.description{
+    white-space: pre-line;
+}
+
+.row{
+    white-space: pre-line;
+}
+
+.form{
+    align-items: center;
+    text-align: center;
+    margin-left: 400px;
+    background-color: #F4BF96;
+    width: 700px;
+    box-shadow:  50px black;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: left;
+}   
+
+.form-group{
+    text-align: left;
+    margin: 20px;
+}
+
+.button{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.add-btn{
+    text-align: right;
+    margin-top: 10px;
+}
+
+.template{
+    align-items: left;
+    text-align: center;
+    margin: 30px;
+}
+
+.details{
+    text-align: center; 
+    line-height: 1rem;   
+}
+
+hr{
+    border-bottom: 5px solid rgb(48, 11, 11);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 50px;
+}
+
+.division{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    margin-bottom: 3px;
+}
+
+.res-heading{
+    background-color: gray;
+    height: 30px;
+    text-align: left;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+.links{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#res-name{
+    font-weight: bold;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
